@@ -1,0 +1,6 @@
+#Block Name x   y   z    pcf_line
+#----- --  --  -    ----
+$iopadmap$Assignment2.F  12   3  0  # set_io F	3
+w       3  30  0  # set_io w        18
+x       2  31  0  # set_io x	21
+y       4  32  0  # set_io y	23
