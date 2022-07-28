@@ -1,0 +1,8 @@
+set_io F      3
+
+set_io z        18
+set_io y	21
+set_io x	23
+
+
+
