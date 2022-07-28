@@ -1,0 +1,4 @@
+$iopadmap$assignment3.d  12   3  0  # set_io d	 3
+q          14   3  0  # set_io q	64
+$iopadmap$assignment3.clock  22  32  0  # set_io clock    34
+t           4  32  0  # set_io t	23

@@ -1,0 +1,7 @@
+set_io d	 3
+set_io q	64
+set_io clock    34
+
+set_io t	23
+
+

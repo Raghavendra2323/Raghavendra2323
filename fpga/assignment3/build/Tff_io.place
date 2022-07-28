@@ -1,0 +1,12 @@
+#Block Name   x   y   z    pcf_line
+#------------ --  --  -    ----
+$iopadmap$Tff.a  12   3  0  # set_io a	 3
+$iopadmap$Tff.b  14   3  0  # set_io b	 64
+$iopadmap$Tff.c  16   3  0  # set_io c	 62
+$iopadmap$Tff.d  22   3  0  # set_io d	 60
+$iopadmap$Tff.e   8   3  0  # set_io e	 6
+$iopadmap$Tff.f  24   3  0  # set_io f	 59
+$iopadmap$Tff.g  26   3  0  # set_io g	 57
+$iopadmap$Tff.blinkled  22  32  0  # set_io blinkled  34
+Q              2  31  0  # set_io Q	21
+T              4  32  0  # set_io T	23
